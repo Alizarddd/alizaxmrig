@@ -1,0 +1,13 @@
+## update and upgrade and install and all thing I need :))))
+
+sudo apt update -y
+sudo apt upgrade -y
+
+sudo apt install git -y
+
+sudo wget https://github.com/xmrig/xmrig/releases/download/v6.18.0/xmrig-6.18.0-linux-x64.tar.gz
+
+sudo tar -xvzf xmrig-6.18.0-linux-x64.tar.gz
+
+
+
