@@ -1,0 +1,2 @@
+# alizaxmrig
+my xmrig :)
